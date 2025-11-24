@@ -34,5 +34,5 @@ Export-Package: se.redfield.arxnode,
  se.redfield.arxnode.ui.pmodels,
  se.redfield.arxnode.ui.transformation,
  se.redfield.arxnode.util
-Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 
